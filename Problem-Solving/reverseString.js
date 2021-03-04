@@ -13,5 +13,6 @@ const reverseStringTwo = (string) => {
   }
   console.log(reversedString);
 };
+
 reverseStringOne("Hello");
 reverseStringTwo("Hello");
